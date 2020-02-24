@@ -1,3 +1,2 @@
 # SmartDustbin
-![Project Description](draft.PNG)
-<img src = "draft.PNG" width="250">
+<img src = "draft.PNG" width="500">
